@@ -35,8 +35,10 @@
 ---
 ### 9. Конвейер и перенаправление
 ![Топ 10 процессов по памяти](screenshots/17-top-processes.png)
+
 ![Кол-во процессов у юзеров](screenshots/18-process-count.png)
-![Топ-10 больших файлов](screenshots/19-big-file.png)
+
+![Топ-10 больших файлов](screenshots/19-big-files.png)
 ---
 ### 10. Итоговый файл
 ![Список файлов в папке report](screenshots/20-report-files.png)
