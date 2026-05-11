@@ -22,7 +22,7 @@
 ### 7. Проверка обоих доменов
 ![200 with headers](screenshots/08-both-https.png)
 ### 8. TLS handshake
-![вывод с подписями](screenshots/09-tls-hadnshake.png)
+![вывод с подписями](screenshots/09-tls-handshake.png)
 ### 9. Цепочка доверия
 vyache.space → Let's Encrypt → ISRG Root X1
 	Браузер проверяет с конца, сертф подписан, летс енкрипт подписан. Если во всех точках всё ок, то появляется замочек
